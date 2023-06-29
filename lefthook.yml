@@ -2,6 +2,6 @@ pre-commit:
   parallel: true
   commands:
     secretlint:
-      run: docker run -v `pwd`:`pwd` -w `pwd` --rm -it secretlint/secretlint@v6.2.3 secretlint "**/*"
+      run: docker run -v `pwd`:`pwd` -w `pwd` --rm -it secretlint/secretlint secretlint "**/*"
     cspell:
       run: yarn fix:spell

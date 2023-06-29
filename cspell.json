@@ -9,5 +9,5 @@
       }
     ],
     "dictionaries": ["project-words", "softwareTerms"],
-    "ignorePaths": ["node_modules", "/project-words.txt", "pnpm-lock.yaml"]
+    "ignorePaths": ["node_modules", "./dictionary.txt", "pnpm-lock.yaml"]
 }
