@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "",
   "devDependencies": {
-    "cspell": "8.13.3",
+    "cspell": "8.16.0",
     "fixpack": "4.0.0",
     "npm-run-all2": "7.0.1"
   },
