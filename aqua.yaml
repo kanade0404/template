@@ -10,4 +10,4 @@ registries:
   - type: standard
     ref: v4.306.0 # renovate: depName=aquaproj/aqua-registry
 packages:
-  - name: evilmartians/lefthook@v1.10.1
+  - name: evilmartians/lefthook@v1.10.10
