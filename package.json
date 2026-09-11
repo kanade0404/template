@@ -6,7 +6,7 @@
   "devDependencies": {
     "cspell": "10.0.1",
     "fixpack": "4.0.0",
-    "npm-run-all2": "9.0.1"
+    "npm-run-all2": "9.0.3"
   },
   "keywords": [],
   "license": "ISC",
